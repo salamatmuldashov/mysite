@@ -1,0 +1,1 @@
+{"asctime": "2024-12-12 16:22:38,217", "levelname": "INFO", "name": "django.utils.autoreload", "message": "/Users/salamatmuldashov/Desktop/Final_Backend_Highload/backend/mysite/mysite/settings.py changed, reloading.", "pathname": "/Users/salamatmuldashov/Desktop/Final_Backend_Highload/backend/myenv/lib/python3.13/site-packages/django/utils/autoreload.py", "lineno": 266}
